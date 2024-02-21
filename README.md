@@ -7,15 +7,15 @@ Video Demonstration - https://www.youtube.com/watch?v=T4A3TeLoG-o
 
 <div align="center">
   
-  ![1705490312053](https://github.com/shalikadulaj/Smart-Home-Power-and-Energy-Consumption-Monitoring-System---LabView/assets/58818511/bcbac16a-20cd-43cf-9a90-6ca9f4d9e68c)
-
+![1705490340987](https://github.com/shalikadulaj/Smart-Home-Power-and-Energy-Consumption-Monitoring-System---LabView/assets/58818511/987effdf-12e9-4914-babf-8f62508a2f54)
 
 </div>
 
 <div align="center">
   
+  ![1705490312053](https://github.com/shalikadulaj/Smart-Home-Power-and-Energy-Consumption-Monitoring-System---LabView/assets/58818511/bcbac16a-20cd-43cf-9a90-6ca9f4d9e68c)
 
-![1705490340987](https://github.com/shalikadulaj/Smart-Home-Power-and-Energy-Consumption-Monitoring-System---LabView/assets/58818511/987effdf-12e9-4914-babf-8f62508a2f54)
+
 
 </div>
 
